@@ -5,7 +5,7 @@
 # on GPIO3 is pressed and held for 0.5 seconds.
 #
 # Using GPIO3 because this pin also triggers a restart to wake the
-# Pi from a halt state when shorted to ground (button pressed).
+# Pi from a poweroff state when shorted to ground (button pressed).
 
 echo '#!/bin/bash
 
